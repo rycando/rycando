@@ -15,7 +15,7 @@
 <p> - TypeScript </p>
 <p> - Java Spring (예정) </p>
 
-<hr><br>
+<hr>
 
 <h3 align="center">🖥 Tech Stack 🖥</h3>
 
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/GA-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>&nbsp
 </p>
 
-<br>
 
 <h3 align="center"> 💌 Contact Me 💌 </h3>
 
@@ -53,5 +52,3 @@
   <a href="https://www.instagram.com/sweet_sky_ss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sweet_sky_ss/"/></a>&nbsp
   <a href="https://twitter.com/JDuckC_official"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/JDuckC_official"/></a>&nbsp
 </p>
-
-<br>
