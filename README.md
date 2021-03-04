@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GA-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>&nbsp
 </p>
-
+<br>
 
 <h3 align="center"> 💌 Contact Me 💌 </h3>
 
