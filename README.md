@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**rycando/rycando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+🖥 Tech Stack 🖥
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
