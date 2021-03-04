@@ -15,8 +15,7 @@
 <p> - TypeScript </p>
 <p> - Java Spring (예정) </p>
 
-<hr><br><br>
-
+<hr><br>
 
 <h3 align="center">🖥 Tech Stack 🖥</h3>
 
