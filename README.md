@@ -4,7 +4,7 @@
 <h3> Kim Ryun Yeong </h3>
 <p> - Web Developer </p>
 <p> - Run, as you always do </p>
-<p> - 세상 모두가 사랑하는 일을 하는 날을 꿈꾸며  </p>
+<p> - 세상 모두가 사랑하는 일을 하는 날을 꿈꾸며 개발합니다. </p>
 
 <h3> 🔭 I’m currently working on </h3>
 <p> - 42Seoul Cadet (2020.02 ~) </p>
