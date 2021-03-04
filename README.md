@@ -50,6 +50,7 @@
 
 <p align="center">
   <a href="https://velog.io/@rycando"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@rycando"/></a>&nbsp
+  <a href="https://www.facebook.com/rycando/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rycando/"/></a>&nbsp
   <a href="https://www.instagram.com/sweet_sky_ss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sweet_sky_ss/"/></a>&nbsp
   <a href="https://twitter.com/JDuckC_official"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/JDuckC_official"/></a>&nbsp
 </p>
