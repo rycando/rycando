@@ -8,8 +8,9 @@
 
 <h3> 🔭 I’m currently working on </h3>
 <p> - 42Seoul Cadet (2020.02 ~) </p>
-<p> - <a href="https://community.jiduckche.com"> 아이돌 비공식 굿즈 커뮤니티 "지덕체"</a> 운영 중 (2021.01 ~) </p>
-<p> - <a href="https://takemm.com"> 온라인 주문서 "TMM"</a> 백엔드 개발자 (2021.06 ~) </p>
+<p> - <a href="https://community.jiduckche.com"> (공사중)아이돌 비공식 굿즈 커뮤니티 "지덕체"</a> 운영 중 (2021.01 ~) </p>
+<p> - <a href="https://takemm.com"> 온라인 주문서 "TMM"</a> 백엔드 개발자 (2021.06 ~ 2021.08) </p>
+<p> - 당근마켓 MVP 인턴 (2021.10 ~ 2021.12) </p>
 
 
 <h3> 🌱  I’m currently learning ... </h3>
