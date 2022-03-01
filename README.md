@@ -1,4 +1,4 @@
-<h3 align="center"> 🌙 Me 🌕 </h3>
+<h3 align="center"> 🌙 Rudy 🌕 </h3>
 <hr/>
 
 <h3> Kim Ryun Yeong </h3>
